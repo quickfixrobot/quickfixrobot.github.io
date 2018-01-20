@@ -1,36 +1,26 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/quickfixrobot/quickfixrobot.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## FIXRobot
+FIXRobot is software to write testcases and test FIXEngine using FIX Protocol. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+FIXRobot can act as intitiator and acceptor/exchange. 
 
-### Markdown
+FIXRobot can send and receive FIX messages and will compare the actual messages with the expected messages.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Author: Written by Anand P. Subramanian.
 
-```markdown
-Syntax highlighted code block
+Copyright: FIXRobot  Copyright (C) 2016  Anand P. Subramanian.
 
-# Header 1
-## Header 2
-### Header 3
+License: GGPLv3+ GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
 
-- Bulleted
-- List
+You can download the source code of [FIXRobot](https://github.com/quickfixrobot/FIXRobot) from here: <https://github.com/quickfixrobot/FIXRobot>
 
-1. Numbered
-2. List
+For any issues or enhacements reporting bugs: <https://github.com/quickfixrobot/FIXRobot/issues>
 
-**Bold** and _Italic_ and `Code` text
+Usage: import FIXRobot
 
-[Link](url) and ![Image](src)
-```
+For documentation please check the docs/index.html.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/quickfixrobot/quickfixrobot.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+For enhancements, contributions, collabaration or any questions also please contact at <quickfixrobot@gmail.com>
 
 ### Support or Contact
 
