@@ -4,3 +4,8 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
 
+zip_url: https://github.com/quickfixrobot/FIXRobot/archive/master.zip
+tar_url: https://github.com/quickfixrobot/FIXRobot/archive/master.tar
+clone_url: https://github.com/quickfixrobot/FIXRobot.git
+
+repository: quickfixrobot/FIXRobot
