@@ -1,11 +1,11 @@
 title: FIXRobot
 description: Testing tool for FIX Applications.
 show_downloads: true
-google_analytics:
+google_analytics: UA-112767950-1
 theme: jekyll-theme-minimal
 
-zip_url: https://github.com/quickfixrobot/FIXRobot/archive/master.zip
-tar_url: https://github.com/quickfixrobot/FIXRobot/archive/master.tar
+zip_url: https://api.github.com/repos/quickfixrobot/FIXRobot/zipball/master
+tar_url: https://api.github.com/repos/quickfixrobot/FIXRobot/tarball/master
 clone_url: https://github.com/quickfixrobot/FIXRobot.git
 
 repository: quickfixrobot/FIXRobot
